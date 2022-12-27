@@ -14,7 +14,7 @@ export const Footer = () => {
               <h1 className="grad-cs">Nandish N S</h1>
               <h5>
                 Student at{" "}
-                <a href="https://pes.edu" style={{ textDecoration: "none", color: "#93dc91" }}>
+                <a href="https://pes.edu" target='_blank' rel="noreferrer" style={{ textDecoration: "none", color: "#93dc91" }}>
                   PES University
                 </a>{" "}
               </h5>
@@ -43,7 +43,7 @@ export const Footer = () => {
               </a>
             </div>
             <p>Nandish N S - 2022 | Porfolio Website</p>
-            <p>Source Code Under <a href="https://opensource.org/licenses/MIT" style={{ textDecoration: "none", color: "#93dc91" }}>
+            <p>Source Code Under <a href="https://opensource.org/licenses/MIT" target='_blank' rel="noreferrer" style={{ textDecoration: "none", color: "#93dc91" }}>
                  MIT Licence
                 </a></p>
           </Col>

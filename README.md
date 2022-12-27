@@ -1,6 +1,6 @@
 # Personal Portfolio Website in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [My Porfolio Website is live now!](https://nandishns.netlify.app/).
 
 
 ![image](https://user-images.githubusercontent.com/92267208/209716902-22153619-d71a-454d-8ef7-a7408544c5c3.png)

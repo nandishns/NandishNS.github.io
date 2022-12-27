@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+
+![image](https://user-images.githubusercontent.com/92267208/209716902-22153619-d71a-454d-8ef7-a7408544c5c3.png)
 
 Built using:
 
@@ -10,7 +11,7 @@ Built using:
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
 
-In the /personal-portfolio, you can run:
+ You can run:
 
 ### `npm start`
 

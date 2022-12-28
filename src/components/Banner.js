@@ -59,7 +59,7 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1 className="grad-css">{`Hi! I'm Nandish`} <br /> <span className="txt-rotate" dataPeriod="500" data-rotate='[ "Web Developer", "Tech Enthusiastic", "Loves Coding" ]'><span className="wrap" id="typo">{text}</span></span></h1>
                   <p>
-                    A Self-Learner, who have has keen intrest in up-skilling and putting it to use for solving real-world problems. <br /> <br />
+                    A Self-Learner, who have has keen interest in up-skilling and putting it to use for solving real-world problems. <br /> <br />
                  CSE Undergrad at <a href="https://pes.edu/" style={{textDecoration: 'none', color: 'cyan'}} > PES University</a> 
                   </p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>

@@ -141,7 +141,7 @@ export const Projects = () => {
                                     /> 
                                   </p>
                                   <a
-                                    href="https://github.com/Nandish2021/fashop.com"
+                                    href="https://github.com/Nandish2021/Virtual-Calculator"
                                     target="_blank"
                                     className="btn btn-info fw-bold fs-4 me-2"
                                   >
@@ -190,7 +190,7 @@ export const Projects = () => {
                                     />
                                   </p>
                                   <a
-                                    href="https://github.com/Nandish2021/Classrooms-for-Assignment-Submission-with-online-compiler-Support"
+                                    href="https://github.com/Nandish2021/Ambulance-Detection-Using-ANN-with-momentum-technique-"
                                     target="_blank"
                                     className="btn btn-info fw-bold fs-4"
                                   >
@@ -292,7 +292,7 @@ export const Projects = () => {
                                     /> 
                                   </p>
                                   <a
-                                    href="https://github.com/Nandish2021/fashop.com"
+                                    href="https://github.com/Nandish2021/Automated-Traffic-Control-Using-DL-and-Arduino"
                                     target="_blank"
                                     className="btn btn-info fw-bold fs-4 me-2"
                                   >

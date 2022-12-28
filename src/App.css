@@ -910,7 +910,7 @@ vertical ruler) */
 }
 /* SHOW SCROLL BUTTON */
 .show-scroll {
-  bottom: 5rem;
+  bottom: 1rem;
 }
 
 /* ******************** media ********************** */
@@ -935,11 +935,12 @@ vertical ruler) */
   .nav-text {
     font-size: 13px;
   }
-
-  .proj-image {
-    width: 50%;
-    border-radius: 5px;
+ .skill-slider .item img {
+    width: 80%;
+    margin: 0 auto 15px auto;
+    border-radius: 8px;
   }
+ 
   .proj-imgbx:hover::before {
     height: 60%;
     border-radius: 9px;
@@ -951,7 +952,7 @@ vertical ruler) */
   }
   #event-img {
     border-radius: 7px;
-    width: 50%;
+    width: 70%;
   }
 
   #foot-container {

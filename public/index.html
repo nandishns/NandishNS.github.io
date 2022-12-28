@@ -91,5 +91,14 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
+     <script>
+      // SHOW SCROLL UP BUTTON
+function scrollUpfunc() {
+  const scrollUp = document.getElementById("scroll-up");
+  if (this.scrollY >= 560) scrollUp.classList.add("show-scroll");
+  else scrollUp.classList.remove("show-scroll");
+}
+window.addEventListener("scroll", scrollUpfunc);
+    </script>
   </body>
 </html>

@@ -909,7 +909,7 @@ vertical ruler) */
   }
 
   .proj-image {
-    width: 100%;
+    width: 50%;
     border-radius: 5px;
   }
   .proj-imgbx:hover::before {
@@ -923,6 +923,7 @@ vertical ruler) */
   }
   #event-img {
     border-radius: 7px;
+    width: 50%;
   }
 
   #foot-container {

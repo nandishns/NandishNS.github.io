@@ -64,6 +64,7 @@ export const Contact = () => {
                     method="POST"
                     action="https://formspree.io/f/moqzabpj"
                     onSubmit={handleSubmit}
+data-netlify="true"
                   >
                     <Row>
                       <Col size={12} sm={6} className="px-1">

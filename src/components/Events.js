@@ -26,7 +26,7 @@ export default function Events() {
   return (
     <section className="events md-5 " id="events">
       <h2 className="text-center grad-css">Events</h2>
-    <h4 class="text-center" > Events I volunteered or Organized </h4>
+    <h6 class="text-center" > Events that I volunteered or Organized </h6>
       <div className="container  text-center">
         <Carousel
           responsive={responsive}

@@ -18,12 +18,12 @@ export const About = () => {
                   <b> PES University </b>, Bangalore pursuing <b> B.Tech</b> in{" "}
                   <b>Computer Science and Engineering.</b>
                   <br />
-                  A Tech Enthusiastic person with a zeal for coding, inovation,
+                  A Tech Enthusiastic person with a zeal for coding, innovation,
                   designing, developing and experimenting in various domains of
                   technology. <br />
                   Right now I'm improving my skills in App Developement (React
-                  Native) , Computer Vision and Machine Learning. <br /> <br />
-                  <button type="button" class="btn btn-info btn-lg">
+                  Native & Flutter) , Computer Vision and Machine Learning. <br /> <br />
+                  <a type="button" href='https://www.linkedin.com/in/nandish-n-s-bb3882230/' target='_blank' class="btn btn-info btn-lg">
                     Resume{" "}
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -42,7 +42,7 @@ export const About = () => {
                         d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"
                       />
                     </svg>
-                  </button>
+                  </a>
                 </div>
                 <div className="container">
                   <img src={myPhoto} className="about_img" alt="myphoto" />

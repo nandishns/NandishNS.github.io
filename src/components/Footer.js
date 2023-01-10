@@ -27,7 +27,7 @@ export const Footer = () => {
               <a href="https://www.linkedin.com/in/nandish-n-s">
                 <img src={navIcon1} alt="Icon" />
               </a>
-              <a href="https://github.com/Nandish2021">
+              <a href="https://github.com/nandishns">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"

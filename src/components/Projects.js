@@ -75,7 +75,8 @@ export const Projects = () => {
                                     <img
                                       src="https://user-images.githubusercontent.com/92267208/195142183-70f1e548-2eac-4f9a-a3ec-998f8cc39f53.png"
                                       alt="could not load"
-                                      className="proj-image"
+                                      className="proj-image-img"
+                                      
                                     />
                                     <div className="proj-txtx">
                                       <h3>Fashop</h3>

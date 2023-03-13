@@ -1,5 +1,6 @@
 import React from "react";
 import eventKan from "../assets/img/event-kan.jpg";
+import kodikon from "../assets/img/kodikon.jpeg";
 import eventHack from "../assets/img/event-hack.jpg";
 import Carousel from "react-multi-carousel";
 export default function Events() {
@@ -26,15 +27,22 @@ export default function Events() {
   return (
     <section className="events md-5 " id="events">
       <h2 className="text-center grad-css">Events</h2>
-    <h6 class="text-center" > Events that I volunteered or Organized </h6>
       <div className="container  text-center">
         <Carousel
           responsive={responsive}
           infinite={true}
           className="owl-carousel owl-theme skill-slider text-center md-5 "
         >
+           <div className="item container">
+            <img src={kodikon} alt="could not load" id="event-img" />
+            <h3>Kodikon 2.0</h3>
+            <h5>
+             Mentor and member of reviewing panel in a hackathon <br />{" "}
+              conducted by CSE Dept and Embrione{" "}
+            </h5>
+          </div>
           <div className="item container">
-            <img src={eventKan} alt="Image" id="event-img" />
+            <img src={eventKan} alt="could not load" id="event-img" />
             <h3>Kannada Rajyostava 2022'</h3>
             <h5>
               Voluntered Kannada Rajyostava under Kannada koota club <br />{" "}
@@ -42,7 +50,7 @@ export default function Events() {
             </h5>
           </div>
           <div className="item">
-            <img src={eventHack} alt="Image" id="event-img" />
+            <img src={eventHack} alt="could not load" id="event-img" />
             <h3>Kannada Hackathon'22</h3>
             <h5>
               Kannada Hackathon is the first ever language based hackathon{" "}

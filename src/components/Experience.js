@@ -171,8 +171,9 @@ export default function Experience() {
                                     <div className="container text-start">
                                       <ul>
                                         <li>Implemented Image and Pdf compressor feature to the app.</li>
-                                        <li>Implemented Autopay feature where a users can request autopay option from customer.</li>
-                                        <li>Implemented Autopay feature where a users can request autopay option from customer.</li>
+                                        <li> Implemented Autopay feature and Reference System for helping B2B businesses</li>
+                                        <li>Deployed a release at Playstore.</li>
+                                        <li>Working on better UI/UX and user performance.</li>
                                         <li>Link to the work: <a href="https://play.google.com/store/apps/details?id=com.karz.karzsecure" className="btn btn-info btn-sm" target="_blank">Click here</a> </li>
 
                                       </ul>
@@ -191,7 +192,38 @@ export default function Experience() {
                                       Dec 2022 - Present
                                     </div>
                                   </MDBCardBody>
+                                  <MDBCardBody className="p-4">
+                                    <h4 className="fw-bold mb-2 ">Pyramid Developers</h4>
+
+                                    <span class=" fw-bold ">
+                                      Application Developer Intern
+                                    </span>
+                                    <div className="container text-start">
+                                      <ul>
+                                        <li> Working on TrashtoCash project.</li>
+                                        <li>Tech Stack: Bloc architecture, Firebase, Maps,Dart, Flutter</li>
+                                        <li>Deployed a release at Playstore.</li>
+                                      
+                                        <li>Link to the work: <a href="https://play.google.com/store/apps/details?id=com.pyramid.trashtocash" className="btn btn-info btn-sm" target="_blank">Click here</a> </li>
+
+                                      </ul>
+                                    </div>
+                                    <div class="qualification_calendar">
+                                      <svg
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        width="16"
+                                        height="16"
+                                        fill="currentColor"
+                                        class="bi bi-calendar-event-fill text-info m-2"
+                                        viewBox="0 0 16 16"
+                                      >
+                                        <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4V.5zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2zm-3.5-7h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z" />
+                                      </svg>
+                                      Feb 2022 - Present
+                                    </div>
+                                  </MDBCardBody>
                                 </MDBCard>
+                               
                               </div>
                              
                              
